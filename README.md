@@ -1,65 +1,74 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=hey%2C+i'm+merwan;building+what+i+like" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://merwandjerbi.com"><img src="https://img.shields.io/badge/merwandjerbi.com-000?style=for-the-badge&logo=safari&logoColor=white" alt="website"></a>
-  <a href="https://flair-analytics.com"><img src="https://img.shields.io/badge/flair--analytics.com-6366f1?style=for-the-badge&logo=baremetrics&logoColor=white" alt="flair"></a>
-  <a href="https://x.com/merwayofthought"><img src="https://img.shields.io/badge/@merwayofthought-000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=220&section=header&text=merwan&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=building%20what%20i%20like&descSize=20&descAlignY=55&descColor=ffffffaa" width="100%"/>
 
----
+<br/>
 
-### what i'm working on
+<a href="https://merwandjerbi.com"><code>merwandjerbi.com</code></a> &nbsp;&middot;&nbsp;
+<a href="https://flair-analytics.com"><code>flair-analytics.com</code></a> &nbsp;&middot;&nbsp;
+<a href="https://x.com/merwayofthought"><code>@merwayofthought</code></a>
+
+<br/><br/>
+
+</div>
+
+```
+ i don't plan things. i just build them and see what happens.
+```
+
+<br/>
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">hivebrain</h3>
-      <p align="center">
-        <a href="https://github.com/merway7/hivebrain">
-          <img src="https://img.shields.io/badge/collective%20memory%20for%20ai%20agents-6366f1?style=for-the-badge" alt="hivebrain">
-        </a>
-      </p>
-      <p align="center">shared knowledge base where ai agents search before working and submit findings after. every bug solved once, solved for everyone.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">flair analytics</h3>
-      <p align="center">
-        <a href="https://flair-analytics.com">
-          <img src="https://img.shields.io/badge/analytics%20platform-a855f7?style=for-the-badge" alt="flair">
-        </a>
-      </p>
-      <p align="center">analytics done differently.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">agentforge</h3>
-      <p align="center">
-        <a href="https://github.com/merway7/agentforge-starter">
-          <img src="https://img.shields.io/badge/ai%20support%20agent%20for%20any%20site-000?style=for-the-badge" alt="agentforge">
-        </a>
-      </p>
-      <p align="center">free ai support agent for any website. claude api + embeddable chat widget. 5 minute setup.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">shipnuxt</h3>
-      <p align="center">
-        <a href="https://github.com/merway7/shipnuxt">
-          <img src="https://img.shields.io/badge/nuxt%204%20saas%20boilerplate-000?style=for-the-badge" alt="shipnuxt">
-        </a>
-      </p>
-      <p align="center">production-ready nuxt 4 saas boilerplate. auth, billing, dashboard, admin. ship in days.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### <samp>hivebrain</samp>
+collective memory for ai agents.
+agents search before working, submit findings after.
+every bug solved once, solved for everyone.
+
+<a href="https://github.com/merway7/hivebrain"><img src="https://img.shields.io/badge/→_repo-6366f1?style=flat-square" alt="hivebrain"></a>
+
+</td>
+<td width="50%" valign="top">
+
+### <samp>flair analytics</samp>
+analytics done differently.
+
+<a href="https://flair-analytics.com"><img src="https://img.shields.io/badge/→_site-a855f7?style=flat-square" alt="flair"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <samp>agentforge</samp>
+free ai support agent for any website.
+claude api + embeddable chat widget. 5 min setup.
+
+<a href="https://github.com/merway7/agentforge-starter"><img src="https://img.shields.io/badge/→_repo-333?style=flat-square" alt="agentforge"></a>
+
+</td>
+<td width="50%" valign="top">
+
+### <samp>shipnuxt</samp>
+nuxt 4 saas boilerplate.
+auth, billing, dashboard, admin. ship in days.
+
+<a href="https://github.com/merway7/shipnuxt"><img src="https://img.shields.io/badge/→_repo-333?style=flat-square" alt="shipnuxt"></a>
+
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-### tools i like
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,python,astro,sqlite,tailwind,cloudflare,github&theme=dark" alt="tech stack" />
-</p>
+<img src="https://skillicons.dev/icons?i=ts,vue,nuxt,python,astro,sqlite,tailwind,cloudflare&theme=dark&perline=8" />
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=100&section=footer" width="100%"/>
+
+</div>
