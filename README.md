@@ -63,13 +63,3 @@
   <img src="https://skillicons.dev/icons?i=ts,vue,nuxt,python,astro,sqlite,tailwind,cloudflare,github&theme=dark" alt="tech stack" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merway7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=a855f7&text_color=888888" alt="stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=merway7&theme=tokyonight&hide_border=true&background=00000000&ring=6366f1&fire=a855f7&currStreakLabel=888888&sideLabels=888888&dates=555555" alt="streak" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=merway7&color=6366f1&style=flat-square&label=profile+views" alt="views">
-</p>
